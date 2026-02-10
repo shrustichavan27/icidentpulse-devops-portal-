@@ -1,4 +1,4 @@
-
+# IncidePlus
 IncidentPulse is a real-time enterprise-style DevOps project designed to simulate how organizations manage production incidents, incident evidence, remediation documents, and operational audits using Linux and AWS.
 
 ---
@@ -54,6 +54,8 @@ The system allows:
 
 ---
 ## Architecture Diagram
+![WhatsApp Image 2026-02-10 at 19 24 05](https://github.com/user-attachments/assets/ec257d4d-3ccb-454a-aad1-7fc8283a94c2)
+
 ![WhatsApp Image 2026-02-10 at 19 24 05 (1)](https://github.com/user-attachments/assets/a689a061-0ae8-4fb7-98b4-00f6cc936e60)
 
 ---
